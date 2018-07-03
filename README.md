@@ -1,2 +1,2 @@
 # OneRoster
-Convert OneRoster v1.1 to v1.0
+Convert OneRoster v1.1 csv's to v1.0
